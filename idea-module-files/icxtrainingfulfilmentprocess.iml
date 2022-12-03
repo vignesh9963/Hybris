@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2105/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess">
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfulfilmentprocess/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="ticketsystem" exported="" />
+  </component>
+</module>

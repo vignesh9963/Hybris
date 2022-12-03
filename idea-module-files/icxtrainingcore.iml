@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2105/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore">
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingcore/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+  </component>
+</module>

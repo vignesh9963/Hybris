@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2105/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../custom/icxtraining/icxtrainingfacades/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="icxtrainingcore" exported="" />
+  </component>
+</module>
